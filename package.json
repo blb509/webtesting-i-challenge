@@ -1,0 +1,22 @@
+{
+    "name": "webtesting-i-challenge",
+    "version": "1.0.0",
+    "description": "Web Testing I  Project",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest --watch"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/blb509/webtesting-i-challenge.git"
+    },
+    "keywords": [
+      "lambda",
+      "testing"
+    ],
+    "author": "Lambda School",
+    "devDependencies": {
+      "jest": "^24.7.1"
+    }
+  }
+  
